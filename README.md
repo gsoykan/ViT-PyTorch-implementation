@@ -14,6 +14,10 @@
 
 Reproduction of Vision Transformer based on this [amazing blog post](https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632) 
 
+## Todo
+
+- [ ] Implement Dense Prediction Structure
+
 ## How to run
 
 Install dependencies
